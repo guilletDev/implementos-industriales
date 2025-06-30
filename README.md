@@ -1,30 +1,16 @@
-# Responsive website design
+# Implementos Industriales SRL – Sitio Web
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+Sitio web institucional de **Implementos Industriales SRL**, ferretería industrial ubicada en Salta y San Salvador de Jujuy, Argentina.  
+El sitio fue desarrollado con **Next.js** y **Tailwind CSS**, con foco en rendimiento, diseño responsivo y posicionamiento SEO.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/guilletdevs-projects/v0-responsive-website-design)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/KKRrgLEHi4F)
+---
 
-## Overview
+## 🚀 Tecnologías utilizadas
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+- [Next.js](https://nextjs.org/) – Framework de React para sitios web rápidos y optimizados.
+- [Tailwind CSS](https://tailwindcss.com/) – Utilidades CSS para desarrollo ágil y diseño moderno.
+- [Vercel](https://vercel.com/) – Plataforma de despliegue recomendada.
+- SEO Optimizado: etiquetas `<meta>`, Open Graph, favicon y título dinámico.
+- UI basada en imágenes de referencia y componentes modulares.
 
-## Deployment
 
-Your project is live at:
-
-**[https://vercel.com/guilletdevs-projects/v0-responsive-website-design](https://vercel.com/guilletdevs-projects/v0-responsive-website-design)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/KKRrgLEHi4F](https://v0.dev/chat/projects/KKRrgLEHi4F)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
